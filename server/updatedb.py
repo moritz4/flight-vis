@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # This script updates a database of flight positions.
 # This script should be run periodlically
 
